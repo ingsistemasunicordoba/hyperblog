@@ -1,5 +1,6 @@
 Esta es mi historia
 
-Mi edad no importa, pero nací en COlombia
+Mi edad es 43 ... ahora si importa, pero nací en COlombia
 
 Estamos viendo historia en Git
+...
