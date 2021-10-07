@@ -1,8 +1,6 @@
-Esta es mi historia
+Esta es mi historia Angel Jiménez
 
-Mi edad es 43 ... ahora si importa, pero nací en COlombia
+Tengo la edad de NN años y nací en Afganistan
 
-Estamos viendo historia en Git
-...
-Ahora viene otra linea más
-y debajo otra con algo que indica un cargo.
+Hoy veremos historia
+
