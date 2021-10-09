@@ -5,6 +5,7 @@ Un blog mejor que increible para el curso de Git y Github con PLatzi
 * Todos los comandos de github
 * Este es un curso de gitHUb y GIT
 * Ahora se un poco más de GIT y GITHUB
+* Creado por mi que soy una persona inteligente y dedicada.
 
 Y como un gran recordatorio, este **README ES UN CHISTE**  diseñado para el ejemplo, aunque **hay muchos mas y mejores ejemplos**, pero esto es una práctica.
  
